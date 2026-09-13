@@ -1,0 +1,6 @@
+gui/target/
+backend/target/
+*.class
+.vscode/
+.idea/
+*.iml
